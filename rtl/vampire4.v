@@ -1,5 +1,5 @@
 
-module mycore
+module vampire4
 (
 	input         clk,
 	input         reset,

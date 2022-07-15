@@ -1,6 +1,9 @@
-# Template core for MiSTer
+# Vampire V4 core for MiSTer
 
 ## General description
+
+This is an initial draft of a Vampire V4 Standalone core. More will be added as this project progresses.
+
 This core contains the latest version of framework and will be updated when framework is updated. There will be no releases. This core is only for developers. Besides the framework, core demonstrates the basic usage. New or ported cores should use it as a template.
 
 It's highly recommended to follow the notes to keep it standardized for easier maintenance and collaboration with other developers.
